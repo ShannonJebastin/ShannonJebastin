@@ -1,17 +1,15 @@
-# 👋 Hi there, I'm Shannon 
+## 👋 Hi there, I'm Shannon 
 
-👓 Sophomore at **George Fox University**, Oregon, USA | 
-💻 **Computer Engineering Major** | 👩🏻‍💻 **Web Developer Intern**
-
-
-### 💭 About me
-I'm a curious engineer who loves blending **code, circuits and creativity**.
-From building **autonomous robots** and solving physics puzzle to exploring how **software meets speed**, I enjoy learning how every system fits together.
-
-My journey started with curiosity, grew through persevernce, and continues with purpose - to design technology that **moves with precision** and **serves the heart**.
+I'm a Computer Engineering student in George Fox University.
 
 
-### 👩🏻‍💻 Tech Stack
+### About me
+- ☘️ I'm a currently a Web Developer Intern. 
+- 💻 My hobbies inlude coding, building, reading and going on a walk. 
+- 💗 Interests: F1 racing, Game Development, Web Development.
+
+
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
